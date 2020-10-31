@@ -1,0 +1,24 @@
+
+   
+   .GridMain{
+   width: 23%;
+   box-sizing: border-box;
+   
+   
+   border: 1px solid #ccc;
+   border-radius: 8px;
+   margin: 8px;
+   }
+   
+   .Image{
+   width:100%;
+   border-top-left-radius: 8px;
+   border-top-right-radius: 8px;
+   }
+   
+   .Title{
+   font-size: 12px;
+   
+   }
+   
+   
